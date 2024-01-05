@@ -7,9 +7,12 @@
   The idea is to creating a survival island theme scene, making the island using modeling, adding tree and grass with Procedural generation, moveable camera with keyboard and mouse.
 
 ## PCG
-  Procedural content generation is use for the terrian generation of the island
-  Different type of biomes is generated with Terrain Values
-  White -> Snow Hill, Yellow -> Beach, Green -> Forest, Blue -> Ocean
+* Procedural content generation is use for the terrian generation of the island
+* Different type of biomes is generated with Terrain Values
+* White -> Snow Hill
+* Yellow -> Beach
+* Green -> Forest
+* Blue -> Ocean
   Biomes is generated with height limit
 
 
