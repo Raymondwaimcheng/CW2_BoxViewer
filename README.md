@@ -30,11 +30,11 @@ https://www.youtube.com/watch?v=JX5A6sSk9WE
 
 ## Path
 * Include Directories
-  ![Include Directories](https://github.com/Raymondwaimcheng/CW2_IslandViewer/assets/147705610/dfe09975-4a4f-4546-8e11-52eeab1276e2)
+* ![Include Directories](https://github.com/Raymondwaimcheng/CW2_IslandViewer/assets/147705610/dfe09975-4a4f-4546-8e11-52eeab1276e2)
 * Library Directories
-  
+* ![Library Directories](https://github.com/Raymondwaimcheng/CW2_IslandViewer/assets/147705610/fccc4fbf-6284-4cab-b749-b347c85102e2)
 * Linker- Additional Dependencies
-
+* ![Linker- Additional Dependencies](https://github.com/Raymondwaimcheng/CW2_IslandViewer/assets/147705610/042ab520-d7c3-423d-bccf-44b7da404b0e)
 
 ## System
 * Coding using Visual Studio 2022
