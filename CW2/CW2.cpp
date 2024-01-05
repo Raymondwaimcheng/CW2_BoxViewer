@@ -67,7 +67,7 @@ int main()
     //Initialisation of GLFW
     glfwInit();
     //Initialisation of 'GLFWwindow' object
-    GLFWwindow* window = glfwCreateWindow(windowWidth, windowHeight, "Lab5", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(windowWidth, windowHeight, "CW2_IslandViewer", NULL, NULL);
 
     //Checks if window has been successfully instantiated
     if (window == NULL)
