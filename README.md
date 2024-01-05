@@ -17,7 +17,7 @@
 
 
 ## Control
-* Keyboard Control the camera movement
+  Keyboard Control the camera movement
 * Forward:  W
 * Backward: S
 * Left:     A
