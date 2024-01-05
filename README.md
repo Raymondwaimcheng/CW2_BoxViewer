@@ -1,4 +1,4 @@
-# CW2_BoxViewer
+# CW2_IslandViewer
 ## Description
   CW2 of COMP3016
   This project uses OpenGL to create something.
