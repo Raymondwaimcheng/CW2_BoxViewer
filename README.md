@@ -5,7 +5,22 @@
   My goal is to create a controllable object viewer like game engine scene viewer.
   Adding keyboard control for the user to control the object when the program is running, E.g. Color switching, Change rotation, Shader swapping.
   The idea is to creating a survival island theme scene, making the island using modeling, adding tree and grass with Procedural generation, moveable camera with keyboard and mouse.
+
+## PCG
+  Procedural content generation is use for the terrian generation of the island
+  Different type of biomes is generated with Terrain Values
+  White -> Snow Hill, Yellow -> Beach, Green -> Forest, Blue -> Ocean
+  Biomes is generated with height limit
+
+
+## Control
+  Keyboard Control the camera movement
+  Forward:  W
+  Backward: S
+  Left:     A
+  Right:    D
   
+  Mouse Control the camera view
   
 ## System
   Coding using Visual Studio 2022
