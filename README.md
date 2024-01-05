@@ -29,7 +29,12 @@ Different type of biomes is generated with Terrain Values.
 https://www.youtube.com/watch?v=JX5A6sSk9WE
 
 ## Path
+* Include Directories
+  ![Include Directories](https://github.com/Raymondwaimcheng/CW2_IslandViewer/assets/147705610/dfe09975-4a4f-4546-8e11-52eeab1276e2)
+* Library Directories
   
+* Linker- Additional Dependencies
+
 
 ## System
 * Coding using Visual Studio 2022
