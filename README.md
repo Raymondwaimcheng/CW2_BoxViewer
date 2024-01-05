@@ -17,13 +17,13 @@
 
 
 ## Control
-  Keyboard Control the camera movement
-  Forward:  W
-  Backward: S
-  Left:     A
-  Right:    D
+* Keyboard Control the camera movement
+* Forward:  W
+* Backward: S
+* Left:     A
+* Right:    D
   
-  Mouse Control the camera view
+* Mouse Control the camera view
   
 ## System
   Coding using Visual Studio 2022
